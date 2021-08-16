@@ -24,3 +24,9 @@ denormalization
 malreguligilo < b.txt
 ```
 
+## install
+
+```
+pip install git+https://github.com/nymwa/reguligilo
+```
+
