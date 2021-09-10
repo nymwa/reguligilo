@@ -7,7 +7,7 @@ character normalization tool for grammatical error correction
 ### reguligilo
 
 ```
-reguligilo < a.txt > b.txt
+reguligilo -a < a.txt > b.txt
 ```
 
 ### ambireguligilo
