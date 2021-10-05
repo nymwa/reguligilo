@@ -33,7 +33,7 @@ def encode():
 
 
 def ambiencode():
-    arg = parse_encoder_args()
+    args = parse_encoder_args()
     encoder = make_encoder(args)
 
     for line in sys.stdin:
