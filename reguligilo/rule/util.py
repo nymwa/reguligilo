@@ -80,7 +80,7 @@ def make_space_replace_dict():
 def make_punct_replace_dict():
     return {
         chr(0x00a6): '|',
-        chr(0x00ad): '-',
+        chr(0x00ad): '',
         chr(0x01c0): '|',
         chr(0x2010): '-',
         chr(0x2011): '-',
